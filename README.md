@@ -4,7 +4,7 @@ Halo, saya **Adji Dwi Cipta Teja Kusuma**. Saat ini, saya sedang menempuh pendid
 
 ## Tentang Saya
 
-Saya memiliki ketertarikan di bidang teknologi informasi dan pengembangan perangkat lunak. Selain belajar di kampus, saya juga suka menjelajahi proyek-proyek kecil untuk meningkatkan keterampilan saya.
+Saya memiliki ketertarikan di bidang teknologi informasi, khususnya dalam **pemrograman web**. Selain belajar di kampus, saya suka menjelajahi proyek-proyek kecil yang berhubungan dengan pengembangan web untuk terus meningkatkan keterampilan saya dan mengikuti tren terbaru di industri.
 
 ## Pendidikan
 
